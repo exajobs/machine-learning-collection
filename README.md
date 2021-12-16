@@ -1680,3 +1680,14 @@ be
 * [Teachable Machine](https://teachablemachine.withgoogle.com/) - Train Machine Learning models on the fly to recognize your own images, sounds, & poses.
 * [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
 
+
+
+### Contributing
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/exajobs/deep-learning-collection/pulls).
+
+-----
+## License
+
+MIT & [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Exajobs](https://github.com/exajobs) has waived all copyright and related or neighboring rights to this work.
