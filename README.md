@@ -2,6 +2,9 @@
 > Welcome To The World of Machine Learning Collection ®. A collection of awesome software, libraries, Learning Tutorials, documents, books, resources and interesting stuff about Deep Learning.
 > Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
+### What is Machine Learning?
+[Machine learning](https://www.ibm.com/cloud/learn/machine-learning) is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
+
 ![ml](https://github.com/exajobs/machine-learning-collection/blob/main/img/ml.png)
 
 ## Table of Contents
